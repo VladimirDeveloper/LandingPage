@@ -11,6 +11,6 @@
     <title>Landing page project</title>
   </head>
   <body>
-  <h1>Welcome to landing page of site!</h1>
+  <h1>Welcome to landing page of site!!!</h1>
   </body>
 </html>

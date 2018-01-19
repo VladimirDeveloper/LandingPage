@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Hello - Landing page</title>
+    <title>Landing page project</title>
   </head>
   <body>
   <h1>Welcome to landing page</h1>

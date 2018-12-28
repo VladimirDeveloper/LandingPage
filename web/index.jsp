@@ -14,5 +14,10 @@
   </head>
   <body>
   <h1>Welcome to landing page of site!!!</h1>
+  <%
+    Thread.sleep(25000); // sleep 5 seconds
+  %>
+  <h1>This content after 20 seconds sleep</h1>
+
   </body>
 </html>
